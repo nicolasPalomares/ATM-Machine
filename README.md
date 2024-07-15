@@ -1,5 +1,5 @@
 # ATM-Machine
 
-The pourpose of this program is to make an Automated teller machine, in which the user accesses various options like "Withdraw", "Deposit" and "Total balance".
-The first time the user runs the program, a text file is created, so the balance is saved there though a "properties" value. With this, the balance
-is ready to be readed and used for future sessions.
+This program simulates an Automated Teller Machine (ATM) with functionality for users to perform essential banking operations. Users can choose from options such as "Withdraw," "Deposit," and "Check Balance."
+
+Upon the first run, the program creates a text file to store the balance using a "properties" value. This allows the balance to be saved and accessed in future sessions, ensuring continuity and accurate tracking of transactions.
