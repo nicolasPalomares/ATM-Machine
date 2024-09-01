@@ -4,4 +4,4 @@ This program simulates an Automated Teller Machine (ATM) with functionality for 
 
 Upon the first run, the program creates a text file to store the balance using a "properties" value. This allows the balance to be saved and accessed in future sessions, ensuring continuity and accurate tracking of transactions.
 
--JDK 18-
+- JDK 18
